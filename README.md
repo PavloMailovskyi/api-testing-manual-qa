@@ -9,4 +9,4 @@ Scope:
 Tools:
 - Postman
 - Swagger
-- SQL.
+- SQL
