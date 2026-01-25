@@ -14,18 +14,18 @@ This project is designed as a **Junior QA / Manual QA portfolio project**.
 
 ---
 
-## 🔗 API Under Test
+## API Under Test
 DummyJSON API  
 https://dummyjson.com/docs
 
-⚠️ **Important note:**  
+**Important note:**  
 DummyJSON is a mock API.  
 POST / PUT / PATCH / DELETE requests return simulated responses and do not persist data on the server.  
 For this reason, fixed IDs (e.g. `id = 1`) are reused in tests.
 
 ---
 
-## 🧪 Testing Scope
+## Testing Scope
 - Authentication:
   - Valid login
   - Invalid login
@@ -41,7 +41,7 @@ For this reason, fixed IDs (e.g. `id = 1`) are reused in tests.
 
 ---
 
-## 🛠 Tools
+## Tools
 - Postman
 - REST API
 - JavaScript (Postman test scripts)
@@ -50,7 +50,7 @@ For this reason, fixed IDs (e.g. `id = 1`) are reused in tests.
 
 ---
 
-## ▶️ How to Run
+## How to Run
 1. Import `dummyjson.postman_collection.json` into Postman
 2. Create environment variable:
    - `base_url = https://dummyjson.com`
@@ -59,7 +59,7 @@ For this reason, fixed IDs (e.g. `id = 1`) are reused in tests.
 
 ---
 
-## 📂 Documentation
+## Documentation
 - Test Plan – `test-plan.md`
 - API Test Cases – `api-test-cases.md`
 - Bug Reports – `bug-reports.md`
